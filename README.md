@@ -56,7 +56,7 @@ Best For	Open-source projects	Private or confidential work
 
 5. Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 A commit is a saved change in a Git repository, acting like a snapshot.
-🔹 Steps for Your First Commit:
+ Steps for Your First Commit:
 Initiitialize Git (if not already initialized):
 sh
 CopyEdit
